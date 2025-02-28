@@ -4,7 +4,6 @@
     font-family: "Roboto", serif;
 }
 #navBar{
-    
     height: 81vh;
     width: 100%;
     background-color: blueviolet;
@@ -17,6 +16,7 @@
     display: flex;
     align-items: center;
     justify-content:space-around;
+    
 
 }
 
@@ -36,4 +36,83 @@
     text-align: center;
     font-size: 100%;
 }
+#imgsize{
+    height: 70px;
+    width: 70px;
+    margin: auto;
+    margin-top: 15px;   
+   
+}
+#sizecard{
+    width: 18rem;
+    height: 18rem;
+    
+}
+.col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#btn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#backg{
+    height:81vh;
+    width: 100%;
+    background-color: blueviolet;
+    border-bottom-right-radius: 10%;
+    border-top-left-radius: 20%;
+   
+}
+#textHtml{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+
+}
+#imgsizing{
+    height: 500px;
+    margin-top: 90px; 
+}
+
+.card:hover{
+    -webkit-box-shadow: 0px 10px 35px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 35px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 35px 0px rgba(0,0,0,0.75);
+}
+/* page-5 */
+#pagesize{
+    height: 70vh;
+    width: 100%;
+}
+.backdeco{
+    background-color: blueviolet;
+    height: 250px;
+    border-radius: 10px;
+    
+
+    margin-top: -50px;
+    font-size: small;
+
+}
+#imgdesign{
+    border-radius: 50%;
+    height: 130px;
+    margin: auto;   
+    margin-bottom:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
     
